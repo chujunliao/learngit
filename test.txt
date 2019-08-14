@@ -1,4 +1,0 @@
-i am the first line.
-:wq
-fasd
-
